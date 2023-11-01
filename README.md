@@ -12,5 +12,5 @@ https://colab.research.google.com/drive/1khwlxN_lR-wAj9BLMWo7UhZLc2c833e2?usp=sh
 https://colab.research.google.com/drive/1yBDgam2PfSb11mDvRW-OpfDkfCepgR9d?usp=sharing
 # ```7_cart``` 
 https://colab.research.google.com/drive/12fGHK8Lt7T8MavQ8114qD26Y0-O02fGW?usp=sharing
-# ```8_LDA_PCA
+# ```8_LDA_PCA```
 https://colab.research.google.com/drive/17le-Jh9s5O14bGCOKZpR1A5G43KwUFIU?usp=sharing
