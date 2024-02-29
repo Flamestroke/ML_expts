@@ -1,4 +1,6 @@
-# ML_expts
+# Machine Learning Experiments For Semester 7 of Mumbai University
+
+This repository consists of 8 Experiments performing various machine learning algorithms
 
 # ```2_linear``` 
 https://colab.research.google.com/drive/11A1TG0UzkUGBfMfwZF2z3UBWduDzVf6h?usp=sharing
